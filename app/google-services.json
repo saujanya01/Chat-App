@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "300906826812",
+    "firebase_url": "https://chatapp-saujanya.firebaseio.com",
+    "project_id": "chatapp-saujanya",
+    "storage_bucket": "chatapp-saujanya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300906826812:android:d9015d8d5368dbfb",
+        "android_client_info": {
+          "package_name": "com.example.saujanya.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300906826812-75evoad3opemvequfbnvfm4aqv6ergk8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saujanya.chatapp",
+            "certificate_hash": "8149b62673899869fde503f7f3bfcf9d15385877"
+          }
+        },
+        {
+          "client_id": "300906826812-6ju1ur0bbtq92oqcul78k7gtqehjo0ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAaqNKydDaYsVxgf33pY9agyGlBt17yiU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300906826812-6ju1ur0bbtq92oqcul78k7gtqehjo0ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
